@@ -1,10 +1,10 @@
 [![Slack Status](https://nrobinson2000.herokuapp.com/badge.svg)](https://nrobinson2000.herokuapp.com/)
-[![Donate Bitcoin](https://img.shields.io/badge/donate-bitcoin-orange.svg)](https://nrobinson2000.github.io/donate-bitcoin)
+[![Donate Bitcoin](https://img.shields.io/badge/donate-bitcoin-orange.svg)](https://bastien09.github.io/donate-bitcoin)
 # donate-bitcoin
 ###### Copyright (GPL) 2016  Nathan Robinson
 A simple html plugin to allow people to donate the equivalent bitcoin amount of a donation of a chosen fiat currency.
 
-[Click here for a Demo.](http://nrobinson2000.github.io/donate-bitcoin/)
+[Click here for a Demo.](http://bastien09.github.io/donate-bitcoin/)
 
 # Configuration: (inside of index.js)
 ```
